@@ -1,2 +1,2 @@
 # bridalapp-static
-Static resources for bridalapp
+Static resources for bridalapp.
